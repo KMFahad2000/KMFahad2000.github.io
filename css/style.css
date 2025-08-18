@@ -1483,8 +1483,7 @@ h3 {
     width: 314px;
     height: 300px;
     content: '';
-    background: no-repeat;
-    background-size: cover;
+       background-size: cover;
   }
 }
 
